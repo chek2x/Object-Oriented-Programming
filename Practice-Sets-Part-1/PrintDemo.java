@@ -11,6 +11,6 @@ public class PrintDemo {
                 " all on the same line");
 
         System.out.print("\n\nThis is a concatenation of both string and integer: ");
-        System.out.print("String and " + 157 + "\n");
+        System.out.print("String and " + 157 + "\n\n");
     }
 }
