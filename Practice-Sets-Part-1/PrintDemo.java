@@ -10,7 +10,7 @@ public class PrintDemo {
         System.out.print(" and another number " + 88 +
                 " all on the same line");
 
-        System.out.print("\nThis is a concatenation of both string and integer: ");
+        System.out.print("\n\nThis is a concatenation of both string and integer: ");
         System.out.print("String and " + 157 + "\n");
     }
 }
