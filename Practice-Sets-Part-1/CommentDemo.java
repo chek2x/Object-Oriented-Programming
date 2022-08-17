@@ -6,11 +6,15 @@
 
 public class CommentDemo {
     public static void main(String[] args) {
+        Ownership.Introduction();
+
         // Comment Demo program written by J. Farrell
         /*
          * The purpose of this program
          * is to demonstrate line and block Java comments
          */
         System.out.println("Comment demonstration program");
+
+        System.out.println("Comment added to the top of the file.");
     }
 }
