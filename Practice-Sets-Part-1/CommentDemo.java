@@ -15,6 +15,6 @@ public class CommentDemo {
          */
         System.out.println("Comment demonstration program");
 
-        System.out.println("\nComment added to the top of the file.\ns");
+        System.out.println("\nComment added to the top of the file.\n");
     }
 }
