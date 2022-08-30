@@ -1,7 +1,16 @@
+
+/**
+ * @author Lorenzo, Zazheska D.
+ * @param CCIS - CS 2nd Year
+ * @param A221 - Object Oriented Programming (Paired)
+ */
+
 import javax.swing.JOptionPane;
 
 public class SimpleCalculator {
     public static void main(String[] args) {
+        Ownership.Introduction();
+
         String menu[] = { "Addition", "Subtraction", "Multiplication", "Division", "Square", "Exit" };
 
         String choice = JOptionPane.showInputDialog(null, "Choose operation: ", "Simple Calculator",

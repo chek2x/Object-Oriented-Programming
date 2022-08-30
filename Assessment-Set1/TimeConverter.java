@@ -1,7 +1,16 @@
+
+/**
+ * @author Lorenzo, Zazheska D.
+ * @param CCIS - CS 2nd Year
+ * @param A221 - Object Oriented Programming (Paired)
+ */
+
 import javax.swing.*;
 
 public class TimeConverter {
     public static void main(String[] args) {
+        Ownership.Introduction();
+
         int sec = Integer.parseInt(JOptionPane.showInputDialog(null, "Enter amount of seconds\t: ", "Seconds Converter",
                 JOptionPane.QUESTION_MESSAGE));
         convert(sec);
