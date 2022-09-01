@@ -1,3 +1,9 @@
+
+/**
+ * @author Lorenzo, Zazheska D.
+ * @param CCIS - CS 2nd Year
+ * @param A221 - Object Oriented Programming (Paired)
+ */
 import javax.swing.JOptionPane;
 
 public class Square {
